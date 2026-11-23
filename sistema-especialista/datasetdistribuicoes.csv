@@ -1,0 +1,31 @@
+frase,tipo
+quantas ligações chegam à central por hora,contagemintervalo
+número de clientes que entram na loja por dia,contagemintervalo
+defeitos encontrados por metro de tecido,contagemintervalo
+e-mails recebidos por minuto no servidor,contagemintervalo
+quantos carros passam no pedágio por hora,contagemintervalo
+falhas de rede registradas por mês,contagemintervalo
+erros de digitação por página de um livro,contagemintervalo
+chamadas de emergência recebidas a cada hora,contagemintervalo
+bactérias por mililitro de água,contagemintervalo
+pacientes que chegam ao pronto-socorro por noite,contagemintervalo
+quantas tentativas até passar na prova de direção,repetemeta
+número de lançamentos até sair a primeira coroa,repetemeta
+quantas peças inspecionar até encontrar a quinta defeituosa,repetemeta
+quantas ligações fazer até fechar três vendas,repetemeta
+quantas vezes tentar até acertar o primeiro pênalti,repetemeta
+número de candidatos entrevistados até contratar dois,repetemeta
+quantos dias esperar até a primeira chuva,repetemeta
+quantos clientes abordar até conseguir a primeira venda,repetemeta
+quantas partidas jogar até vencer três,repetemeta
+quantos produtos testar até achar o segundo com defeito,repetemeta
+quantas caras saem em 10 lançamentos de moeda,nfixo
+número de peças defeituosas em um lote de 20 inspecionadas,nfixo
+quantos alunos acertam em uma prova de 15 questões,nfixo
+a moeda sai cara em um único lançamento,nfixo
+quantas bolas vermelhas saem ao retirar 5 de uma urna sem devolução,nfixo
+número de cartas de copas ao sortear 5 de um baralho,nfixo
+quantos eleitores apoiam o candidato em 50 entrevistados,nfixo
+o paciente responde ao tratamento em uma aplicação,nfixo
+quantos itens defeituosos em uma amostra de 8 retirados de uma caixa com 30,nfixo
+o jogador acerta uma única cobrança de falta,nfixo
