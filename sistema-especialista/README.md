@@ -1,6 +1,7 @@
 # Orientador de Distribuições de Probabilidade
 
 Sistema especialista com aprendizado supervisionado.
+[Abrir o notebook no Google Colab](https://colab.research.google.com/github/luzagoc/InteligenciaArtificial_LinguagensFormais_Automatos/blob/main/aula-13-sistema-especialista/distribuicoes_sistema_especialista.ipynb)
 
 ## O que faz
 Recebe uma frase que descreve uma situação do dia a dia e recomenda qual distribuição discreta usar: Poisson, Geométrica, Pascal, Hipergeométrica, Bernoulli ou Binomial.
