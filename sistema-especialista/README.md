@@ -1,6 +1,6 @@
 # Orientador de Distribuições de Probabilidade
 
-Sistema especialista com aprendizado supervisionado. Atividade da Aula 13 de Inteligência Artificial e LFA (UDF).
+Sistema especialista com aprendizado supervisionado.
 
 ## O que faz
 Recebe uma frase que descreve uma situação do dia a dia e recomenda qual distribuição discreta usar: Poisson, Geométrica, Pascal, Hipergeométrica, Bernoulli ou Binomial.
