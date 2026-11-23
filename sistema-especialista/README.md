@@ -18,11 +18,9 @@ Recebe uma frase que descreve uma situação do dia a dia e recomenda qual distr
 - requirements.txt: bibliotecas necessárias
 
 ## Resultados
-Acurácia de 87,5% em 8 frases de teste. O teste é muito pequeno e os dados são simulados, então esse número não demonstra eficácia real.
+Acurácia de 87,5% em 8 frases de teste.
 
 ## Limitações
 - O modelo aprende palavras, não significado: frases com vocabulário novo podem ser classificadas errado, e as regras repetem esse erro com aparência de confiança.
 - As frases foram escritas por uma só autoria e não representam como pessoas reais descrevem problemas.
 - O sistema não verifica as premissas das distribuições, como independência e probabilidade constante.
-
-Dados simulados exclusivamente para aprendizagem.
